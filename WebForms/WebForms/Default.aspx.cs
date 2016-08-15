@@ -11,8 +11,8 @@ namespace WebForms
 	{
 		protected void Page_Load(object sender, EventArgs e)
 		{
-      //Session["name"] = 1;
-      //Response.Redirect("/");
+      Session["name"] = 1;
+      Response.Redirect("/");
 		}
 	}
 }

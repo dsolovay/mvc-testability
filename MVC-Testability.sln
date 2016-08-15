@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "\WebForms\WebForms\WebForms.csproj", "{BE9F8145-4946-40B7-A133-8BCF3221384A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebForms\WebForms.csproj", "{BE9F8145-4946-40B7-A133-8BCF3221384A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSample", "\MvcSample\MvcSample\MvcSample.csproj", "{FACF96C7-70B3-4F64-8D21-58715778EC9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSample", "MvcSample\MvcSample\MvcSample.csproj", "{FACF96C7-70B3-4F64-8D21-58715778EC9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSampleTests", "\MvcSample\MvcSampleTests\MvcSampleTests.csproj", "{704AE25C-032C-469B-A537-DAC0626DF3EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSampleTests", "MvcSample\MvcSampleTests\MvcSampleTests.csproj", "{704AE25C-032C-469B-A537-DAC0626DF3EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
